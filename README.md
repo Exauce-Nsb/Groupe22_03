@@ -2,7 +2,7 @@
 
 # TP d’Algorithmique et programmation
 
-Bienvenue sur le repository GitHub du TP d’algorithmique et programmation. Ce projet contient tous les exercices pratiques réalisés en Python dans le cadre du TP, organisés par thématiques (variables, boucles, conditions, fichiers, etc.).
+Bienvenue sur mon repository GitHub du TP d’algorithmique et programmation. Ce projet contient tous les exercices pratiques réalisés en Python dans le cadre du TP, organisés par thématiques (variables, boucles, conditions, fichiers, etc.).
 
 ## 👥 Informations
 
